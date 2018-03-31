@@ -2,6 +2,8 @@
 
 Myself Bloom Effect Implementation
 
+---
+
 ## 0. 写在之前的话
 
 ![JI Stage2 with Bloom][1]

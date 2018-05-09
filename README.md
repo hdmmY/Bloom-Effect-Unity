@@ -2,6 +2,10 @@
 
 Myself Bloom Effect Implementation
 
+<br />
+<br />
+<br />
+
 ## 0. 写在之前的话
 
 ![JI Stage2 with Bloom][1]
@@ -166,7 +170,7 @@ half4 frag_upsample(MutiVertex i) : SV_Target
 | 1 | 2 | 1 |
 |:-:|:-:|:-:|
 | 2 | 4 | 2 |
-| 1 | 1 | 1 |
+| 1 | 2 | 1 |
 
 这里的主要作用就是对小的图像进行采样，从而形成一张大的图像。
 
